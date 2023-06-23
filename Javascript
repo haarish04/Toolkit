@@ -1,0 +1,66 @@
+Websites and github libraries for HTML/CSS and various Javascript frameworks
+
+    Codepen.io
+
+https://codepen.io/
+
+Interactive website to design and test front end code and view the effects on the spot
+
+
+    Penpot app
+
+https://penpot.app/
+
+Website with templates for design
+
+
+    Horizon UI
+
+https://github.com/horizon-ui/
+
+https://horizon-ui.com/
+
+Repo with interactive features to add to react project
+
+
+    Material UI
+
+https://mui.com/
+
+Website with interactive components for react and typescript projects
+
+
+    Million.Js
+
+https://million.dev/
+
+Javascript framework to optimize rendering in react 
+
+
+    Javascript/React Interview Prep
+
+https://github.com/lydiahallie/javascript-questions
+
+https://github.com/sudheerj/reactjs-interview-question
+
+    Three Js
+
+https://threejs.org/
+
+Javacript library for rendering 3D objects and animations
+
+
+    Spline
+
+https://spline.design/
+
+Website for 3D design and export snippets to web projects
+
+
+    React Admin
+
+https://marmelab.com/react-admin/?utm_source=tldr&utm_campaign=20230622
+
+React libraries for building dashboard for B2B activities
+
+
