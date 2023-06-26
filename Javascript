@@ -69,3 +69,10 @@ React libraries for building dashboard for B2B activities
 https://animejs.com/
 
 Javascript animation library
+
+
+    React Spring
+
+https://www.react-spring.dev/
+
+React library for animations in UI
