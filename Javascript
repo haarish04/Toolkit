@@ -64,3 +64,8 @@ https://marmelab.com/react-admin/?utm_source=tldr&utm_campaign=20230622
 React libraries for building dashboard for B2B activities
 
 
+    Anime.Js
+
+https://animejs.com/
+
+Javascript animation library
