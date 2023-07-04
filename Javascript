@@ -4,7 +4,7 @@ Websites and github libraries for HTML/CSS and various Javascript frameworks
 
 https://codepen.io/
 
-Interactive website to design and test front end code and view the effects on the spot
+Interactive website to design and test front end code and view the effects on the spot, only allows ES6 imports
 
 
     Penpot app
@@ -97,3 +97,10 @@ Library for CSS and SVG icons
 https://nextui.org/
 
 Library with react components
+
+
+    Code Sandbox.io
+
+https://codesandbox.io/
+
+Allows to check html/css/js effects live, allows external imports also
