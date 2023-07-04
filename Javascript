@@ -92,4 +92,8 @@ https://css.gg/
 Library for CSS and SVG icons
 
 
-    
+    Next UI
+
+https://nextui.org/
+
+Library with react components
