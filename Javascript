@@ -76,3 +76,20 @@ Javascript animation library
 https://www.react-spring.dev/
 
 React library for animations in UI
+
+
+    UIverse
+
+https://uiverse.io/
+
+CSS Library for components
+
+
+    CSS gg
+
+https://css.gg/
+
+Library for CSS and SVG icons
+
+
+    
