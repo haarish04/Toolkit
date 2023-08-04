@@ -104,3 +104,10 @@ Library with react components
 https://codesandbox.io/
 
 Allows to check html/css/js effects live, allows external imports also
+
+
+    Green Sock
+
+https://greensock.com/
+
+Implementation of modern animations and web designs
